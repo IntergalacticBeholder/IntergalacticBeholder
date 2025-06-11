@@ -11,7 +11,7 @@
 -  <img src="https://cdn.icon-icons.com/icons2/196/PNG/128/phone_23732.png" heigth=20 width=20> +7 950 19 38 312
 -  <img src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564396-mail_81524.png" heigth=20 width=20> Ordal@list.ru
 -  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/96/telegram_logo_icon_147228.png" heigth=20 width=20> t.me/daron_elpacko
--  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" heigth=20 width=20> github.com/GarvelLoken1 
+-  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" heigth=20 width=20> github.com/IntergalacticBeholder
 
     
 ### О себе
